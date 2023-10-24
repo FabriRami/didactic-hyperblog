@@ -6,6 +6,21 @@ body {
     margin: 0;
     padding: 0;
 }
+#cabecera{
+    color: #ddd;;
+    background: #5c1060;
+    box-shadow: 0px 2px 15px 0px chartreuse;
+    font-size: 25px;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5rem;
+}
+
+#cabecera #tagline{
+    font-size: 15px;   
+    color: yellow; 
+}
+
 #container{
     width: 70%;
     padding: 1em;
