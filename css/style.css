@@ -52,3 +52,9 @@ body {
 code{
     color: #e9c210;
 }
+    
+#footer{
+    text-align: center;
+    color: #dadd09;    
+    font-size: 1.5rem; 
+}
